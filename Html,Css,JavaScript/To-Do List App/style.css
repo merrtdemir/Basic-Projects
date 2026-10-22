@@ -1,0 +1,74 @@
+body{
+background: #020024;
+background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+
+
+}
+.ust_cizme{
+     text-decoration: line-through;
+}
+#ul_element{
+   list-style:disc;
+  
+}
+
+
+#ekle{
+     transition: transform 0.7s ease; 
+       transform: scale(1);
+}
+#ekle:hover{
+   transition: transform 0.7s ease; 
+       transform: scale(1.25);
+      cursor: pointer;
+      
+     
+}
+.notes{
+    cursor: pointer;
+}
+.app{
+  
+   margin-top: 10%;
+   height: 500px;
+   max-height: 600px;
+   overflow-y: auto;
+background-color: aliceblue;}
+.newDiv{
+   height: 30px;
+}
+.removebutton{
+   background-color: red;
+   display: flex;
+  align-items: center; /* Öğeleri dikeyde tam ortalar */
+  justify-content: center;
+   color: whitesmoke;
+   font-size:25px;
+   width: 40px;
+   height: 40px;
+   border-radius: 50%;
+
+}
+.removebutton:hover{
+      transform: scale(1.25);
+      cursor: pointer;
+      transition: transform 0.5s ease; 
+ 
+
+}
+.removebutton{
+     transition: transform 0.5s ease; 
+       transform: scale(1);
+}
+#input_text{
+   color: black;
+}
+
+#input_text::placeholder{
+   color: green;
+}
+
+#alert-area{
+
+   height: 70px;
+}

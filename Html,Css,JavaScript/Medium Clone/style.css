@@ -1,0 +1,22 @@
+*{
+    font-family: 'Open Sans' 'roboto';
+}
+.menuitem{
+
+    padding-left: 5px;
+}
+
+.buton{
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    font-weight: bolder;
+    width: 140px;
+    height: 40px;
+    margin-top: 15px;
+}
+
+.buton:hover{
+    background-color:black;
+    color: rgb(255, 198, 53);
+}

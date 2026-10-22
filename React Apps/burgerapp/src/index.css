@@ -1,0 +1,22 @@
+/* Dosyanın en üstünde olmalıdır */
+@import url('https://fonts.googleapis.com/css2?family=Isometra&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+body {
+  margin: 0;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+   background-color: #E3A813 !important;
+  color: #212529 !important;
+}
+
+
+/* Başlıklar ve Logo için kalın font */
+h1, h2, h3, .navbar-brand {
+  letter-spacing: -1px;
+    font-family: 'Isometra' !important;
+}
+
+/* Menü linkleri */
+
+
