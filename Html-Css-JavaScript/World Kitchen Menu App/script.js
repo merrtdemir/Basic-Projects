@@ -1,16 +1,16 @@
 
 const meals =[
 
-   { id:1,title:"Chicken Teriyaki", category:"Asia", price:"8.20", img:"/images/teriyaki.png",desc:"Chicken thighs or breasts, soy sauce, brown sugar, garlic, ginger, and a cooking oil." },
-   { id:2,title:"Chow Mein",category:"Asia",price:"4.50",img:"/images/chow_mein.png",desc:"Noodles, a mix of crisp vegetables, a savory sauce, and your choice of protein." },
-   { id:3,title:"Ramen",category:"Asia",price:"5.20",img:"/images/ramen.png",desc:"fresh or dried noodles, a rich broth, flavored tare (seasoning), savory toppings,and boiled eggs."},
-   { id:4,title:"Onigiri",category:"Asia",price:"10.00",img:"/images/onigiri.png",desc:"Japanese short-grain rice, salt, water, and nori seaweed" },
-   { id:5,title:"Wienerschnitzel",category:"Europa",price:"9.95",img:"/images/schintzel.png",desc:"A thin slice of meat that is pounded flat, breaded, and pan-fried until golden and crispy" },
-   { id:6,title:"Napoli Pizza",category:"Europa",price:"4.50",img:"/images/pizza.png",desc:"Italian flatbread from Naples featuring a soft, thin center and a puffy, charred, airy crust"},
-   {id:7,title:"Fish And Chips",category:"Europa",price:"5.25",img:"/images/fish.png",desc:"Fish and chips is a hot popular meal made of battered, deep-fried white fish served with thick-cut fried potatoes"},
-   {id:8,title:"Paella",category:"Europa",price:"7.50",img:"/images/paella.png",desc:"Paella is a traditional Spanish rice dish flavored with saffron, vegetables, and meats or seafood, cooked in a wide, shallow pan"},
-   {id:9,title:"Apple Pie",category:"America",price:"3.90",img:"/images/applepie.png",desc:"An apple pie is a traditional baked fruit dessert with a sweet, spiced apple filling encased in a flaky pastry crust."},
-   {id:10,title:"Cheese Burger",category:"America",price:"4.00",img:"/images/burger.png",desc:"A classic American cheeseburger is a hot sandwich featuring a cooked ground beef patty topped with melted American cheese inside a sliced hamburger bun."},
+   { id:1,title:"Chicken Teriyaki", category:"Asia", price:"8.20", img:"images/teriyaki.png",desc:"Chicken thighs or breasts, soy sauce, brown sugar, garlic, ginger, and a cooking oil." },
+   { id:2,title:"Chow Mein",category:"Asia",price:"4.50",img:"images/chow_mein.png",desc:"Noodles, a mix of crisp vegetables, a savory sauce, and your choice of protein." },
+   { id:3,title:"Ramen",category:"Asia",price:"5.20",img:"images/ramen.png",desc:"fresh or dried noodles, a rich broth, flavored tare (seasoning), savory toppings,and boiled eggs."},
+   { id:4,title:"Onigiri",category:"Asia",price:"10.00",img:"images/onigiri.png",desc:"Japanese short-grain rice, salt, water, and nori seaweed" },
+   { id:5,title:"Wienerschnitzel",category:"Europa",price:"9.95",img:"images/schintzel.png",desc:"A thin slice of meat that is pounded flat, breaded, and pan-fried until golden and crispy" },
+   { id:6,title:"Napoli Pizza",category:"Europa",price:"4.50",img:"images/pizza.png",desc:"Italian flatbread from Naples featuring a soft, thin center and a puffy, charred, airy crust"},
+   {id:7,title:"Fish And Chips",category:"Europa",price:"5.25",img:"images/fish.png",desc:"Fish and chips is a hot popular meal made of battered, deep-fried white fish served with thick-cut fried potatoes"},
+   {id:8,title:"Paella",category:"Europa",price:"7.50",img:"images/paella.png",desc:"Paella is a traditional Spanish rice dish flavored with saffron, vegetables, and meats or seafood, cooked in a wide, shallow pan"},
+   {id:9,title:"Apple Pie",category:"America",price:"3.90",img:"images/applepie.png",desc:"An apple pie is a traditional baked fruit dessert with a sweet, spiced apple filling encased in a flaky pastry crust."},
+   {id:10,title:"Cheese Burger",category:"America",price:"4.00",img:"images/burger.png",desc:"A classic American cheeseburger is a hot sandwich featuring a cooked ground beef patty topped with melted American cheese inside a sliced hamburger bun."},
 
 
 

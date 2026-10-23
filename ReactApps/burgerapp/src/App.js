@@ -6,10 +6,11 @@ import ProductsComp from './Components/ProductsComponent.js';
 
 function App() {
   return (
-  <>
+<>
 
 <Headercomponent/>
 <ProductsComp/>
+
   </>
   );
 }

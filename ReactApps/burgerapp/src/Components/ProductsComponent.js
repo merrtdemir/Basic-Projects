@@ -1,5 +1,5 @@
 import React from 'react'
-import BurgerComponent from './burgerComponent'
+import BurgerComponent from './burgerComponent.js'
 import data from '../Data/data.js'
 
 function ProductsComp() {

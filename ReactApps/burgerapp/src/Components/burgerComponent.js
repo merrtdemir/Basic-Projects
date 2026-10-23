@@ -12,7 +12,7 @@ function BurgerComponent({data}) {
       {data.text}
     </p>
     <a href="#" className="btn btn-warning mt-3">
-      Go somewhere
+      Detaylar
     </a>
   </div>
 </div>
